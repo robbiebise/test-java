@@ -12,7 +12,6 @@ public class Main {
 
       OldStuff oldStuff = new OldStuff();
       oldStuff.oldMethod();
-
    }
 }
 
