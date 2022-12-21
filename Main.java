@@ -6,8 +6,14 @@ public class Main
    {
       out.println("HELLO");
       String a = null;
-      a = "asdf";
-      if (a != null) {out.println(a);}
+      try {
+         a = "asdf";
+         if (a != null) {out.println(a);}
+      }
+      catch (Exception e){
+         throw e;
+      }
       //TODO: somethingg
+
    }
 }
