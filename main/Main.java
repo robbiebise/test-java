@@ -9,9 +9,11 @@ public class Main {
       a = "asdf";
       if (a != null) {out.println(a);}
       //TODO: something elsee
-
-      OldStuff oldStuff = new OldStuff();
-      oldStuff.oldMethod();
+      for (;true;) { 
+         out.println("bad"); 
+         OldStuff oldStuff = new OldStuff();
+         oldStuff.oldMethod();
+      }
    }
 }
 
