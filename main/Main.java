@@ -8,7 +8,7 @@ public class Main {
       String a = null;
       a = "asdf";
       if (a != null) {out.println(a);}
-
+      // TODO: something
       OldStuff oldStuff = new OldStuff();
       oldStuff.oldMethod();
    }
