@@ -8,7 +8,9 @@ public class Main {
       String a = null;
       a = "asdf";
       if (a != null) {out.println(a);}
-
+      if (a != null) {out.println(a);}
+      if (a != null) {out.println(a);}
+      // TDOD: something asdfasdf
       OldStuff oldStuff = new OldStuff();
       oldStuff.oldMethod();
    }
