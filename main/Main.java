@@ -18,5 +18,9 @@ public class Main {
       OldStuff oldStuff = new OldStuff();
       oldStuff.oldMethod();
    }
+   int myPow(int num, int exponent) {
+      num = num * myPow(num, exponent - 1); // Noncompliant
+      return num;  // this is never reached
+   }
 }
 
