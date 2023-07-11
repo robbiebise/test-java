@@ -14,7 +14,8 @@ public class Main {
       if (a != null) {out.println(a);}
       if (a != null) {out.println(a);}
       //TODO: something elsee
-
+      String password = "hello";
+      out.println(password);
       OldStuff oldStuff = new OldStuff();
       oldStuff.oldMethod();
    }
