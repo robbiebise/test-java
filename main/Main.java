@@ -18,6 +18,8 @@ public class Main {
       out.println(password);
       OldStuff oldStuff = new OldStuff();
       oldStuff.oldMethod();
+      String password_2 = "hello";
+      out.println(password_2);
    }
    int myPow(int num, int exponent) {
       num = num * myPow(num, exponent - 1); // Noncompliant
