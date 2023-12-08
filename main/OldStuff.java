@@ -6,5 +6,7 @@ import static java.lang.System.out;
 public class OldStuff {
    public void oldMethod(){
       out.println("old!");
+      out.println("old!");
+      // TODO: something
    }
 }
