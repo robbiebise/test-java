@@ -13,5 +13,11 @@ public class Main {
       OldStuff oldStuff = new OldStuff();
       oldStuff.oldMethod();
    }
+
+   private static class OldStuff {
+      public void oldMethod() {
+         out.println("OLD");
+      }
+   }
 }
 
