@@ -14,4 +14,3 @@ public class Main {
       oldStuff.oldMethod();
    }
 }
-

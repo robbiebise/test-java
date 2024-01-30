@@ -14,8 +14,6 @@ public class OldStuff {
    }
 }
 
-
-
 @Controller
 public class ExampleController
 {
