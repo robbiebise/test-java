@@ -1,0 +1,7 @@
+j
+	main.Main
+<init>main.Main#<init>()V,
+main$main.Main#main([Ljava/lang/String;)Vjava.lang.Objectm
+main.OldStuff!
+<init>main.OldStuff#<init>()V'
+	oldMethodmain.OldStuff#oldMethod()Vjava.lang.Object

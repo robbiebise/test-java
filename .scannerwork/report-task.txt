@@ -1,0 +1,6 @@
+projectKey=robbiebise_test-java_AYUMz9uSsTqRf_H8TmDL
+serverUrl=https://robbie-sonarsource.ngrok.io
+serverVersion=10.0.0.68432
+dashboardUrl=https://robbie-sonarsource.ngrok.io/dashboard?id=robbiebise_test-java_AYUMz9uSsTqRf_H8TmDL
+ceTaskId=AYdxKjid8xNxTvQbtlRm
+ceTaskUrl=https://robbie-sonarsource.ngrok.io/api/ce/task?id=AYdxKjid8xNxTvQbtlRm

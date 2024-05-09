@@ -1,0 +1,15 @@
+
+š
+java:S2293Q"YReplace the type specification in this constructor call with the diamond operator ("<>").(Õø†øÿÿÿÿÿJ$b9071250-7159-4b02-a5e3-5367f51e70ac
+
+java:S1192&"ODefine a constant instead of duplicating this literal "' AND pass = '" 3 times.(±ş‘ãşÿÿÿÿJ$84f98603-28d3-4547-9d37-00832b9fc053
+‰
+java:S1192."MDefine a constant instead of duplicating this literal "Unauthorized" 3 times.(›‹ìˆJ$be890e36-8a7a-4ac4-b1ef-846cc6f13561
+’
+java:S11921"WDefine a constant instead of duplicating this literal "Authentication Success" 3 times.(â¸œJ$867cd5f8-96d6-4656-9ffe-0b33b143952a
+ê
+java:S1598"­This file "SQTestController.java" should be located in "gov/nih/era/fcoi/external/presentation" directory, not in "/Users/theil.bise/repos/test-scanner/java/test-java/main".(ˆ”¦ùJ$4cc903c8-c422-4b9f-8740-ee36b569c1d8
+€
+java:S1854R"?Remove this useless assignment to local variable "queryResult".(µñ¿—ùÿÿÿÿJ$3cf92780-f348-4e72-8d3c-4ae3f33ae829
+q
+java:S1481R"0Remove this unused "queryResult" local variable.(µñ¿—ùÿÿÿÿJ$d2bbd260-fc97-4478-8c29-6da35f4427bd
